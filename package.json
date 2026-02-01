@@ -21,7 +21,7 @@
   "dependencies": {
     "@modelcontextprotocol/server-everything": "*",
     "@modelcontextprotocol/server-memory": "*",
-    "@modelcontextprotocol/server-filesystem": "*",
+    "@modelcontextprotocol/server-filesystem": "2025.7.1",
     "@modelcontextprotocol/server-sequential-thinking": "*"
   }
 }
